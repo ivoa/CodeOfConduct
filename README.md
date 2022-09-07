@@ -1,5 +1,5 @@
 # IVOA CodeOfConduct
-This repository is intended to host a discussion about adopting a common CODE_OF_CONDUCT and Developer Certificate of Origin (DCO) in all of our [IVOA](https://github.com/IVOA) and [IVOA-std](https://github.com/IVOA-std) GitHub projects.
+This repository is intended to host a discussion about adopting a common CODE_OF_CONDUCT and Developer Certificate of Origin (DCO) in all of our [IVOA](https://github.com/IVOA) and [IVOA-std](https://github.com/IVOA-std) projects.
 
 Specific questions to discuss:
 1. The general rule of including a CODE_OF_CONDUCT file in all the projects in the [IVOA code](https://github.com/ivoa) and [IVOA standards](https://github.com/ivoa-std) collections.
